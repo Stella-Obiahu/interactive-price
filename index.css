@@ -1,0 +1,6 @@
+.step1{
+    background-image:url(/pattern-circles.svg), url(/bg-pattern.svg);
+    background-position: center;
+    background-repeat:  no-repeat;
+    height: 100%;
+}
